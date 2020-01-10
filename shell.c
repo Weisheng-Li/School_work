@@ -1,5 +1,5 @@
 /* 
- * tsh - A tiny shell program with job control
+ * A tiny shell program with job control
  * 
  * Author: Weisheng Li
  * Email: wjl5238@psu.edu/ 
