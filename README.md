@@ -1,5 +1,5 @@
 # School_work
-including a proxy, shell, and a memory driver
+includes a proxy, shell, and a memory driver
 
 proxy - a simple proxy with internal cache that can handle http request and return the contents.
         cache.c is the implementation of internal cache using linked list.
